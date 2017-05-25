@@ -1,0 +1,9 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.Common\bin\Debug\Account.Common.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.Common\bin\Debug\Account.Common.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.Common\bin\Debug\Dapper.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.Common\bin\Debug\DapperExtensions.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.Common\bin\Debug\Dapper.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.Common\bin\Debug\DapperExtensions.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.Common\obj\Debug\Account.Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.Common\obj\Debug\Account.Common.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.Common\obj\Debug\Account.Common.pdb

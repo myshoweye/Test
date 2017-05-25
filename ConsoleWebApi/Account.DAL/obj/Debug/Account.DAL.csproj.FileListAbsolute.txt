@@ -1,0 +1,13 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.DAL\bin\Debug\Account.DAL.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.DAL\bin\Debug\Account.DAL.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.DAL\bin\Debug\Account.Common.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.DAL\bin\Debug\Account.Entity.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.DAL\bin\Debug\Dapper.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.DAL\bin\Debug\DapperExtensions.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.DAL\bin\Debug\Account.Common.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.DAL\bin\Debug\Account.Entity.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.DAL\bin\Debug\Dapper.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.DAL\bin\Debug\DapperExtensions.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.DAL\obj\Debug\Account.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.DAL\obj\Debug\Account.DAL.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.DAL\obj\Debug\Account.DAL.pdb

@@ -1,0 +1,15 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.BLL\bin\Debug\Account.BLL.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.BLL\bin\Debug\Account.BLL.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.BLL\bin\Debug\Account.DAL.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.BLL\bin\Debug\Account.Entity.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.BLL\bin\Debug\DapperExtensions.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.BLL\bin\Debug\Account.Common.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.BLL\bin\Debug\Dapper.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.BLL\bin\Debug\Account.DAL.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.BLL\bin\Debug\Account.Entity.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.BLL\bin\Debug\DapperExtensions.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.BLL\bin\Debug\Account.Common.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.BLL\bin\Debug\Dapper.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.BLL\obj\Debug\Account.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.BLL\obj\Debug\Account.BLL.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleWebApi\Account.BLL\obj\Debug\Account.BLL.pdb
